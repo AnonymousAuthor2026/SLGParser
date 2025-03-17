@@ -1,0 +1,18 @@
+{
+    "gpt": {
+        "key": "",
+        "url": ""
+    },
+    "claude": {
+        "key": "",
+        "url": ""
+    },
+    "deepseek": {
+        "key": "",
+        "url": ""
+    },
+    "qwen": {
+        "key": "",
+        "url": ""
+    }
+}
